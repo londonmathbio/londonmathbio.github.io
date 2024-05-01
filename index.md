@@ -11,6 +11,8 @@ o { color: Orange }
 g { color: Green }
 </style>
 
+![Branching](/images/banner.png)
+
 ### <r>Registration for the 2nd London Mathematical Biology Conference is open!</r>
 
 
