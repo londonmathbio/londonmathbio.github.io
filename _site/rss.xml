@@ -6,9 +6,9 @@
 		<link>http://localhost:4000/</link>
 		<description>London Mathematical Biology Conference</description>
 		<language>en-US</language>
-		<copyright>(c) 2023, London Mathematical Biology group</copyright>	
-		<pubDate>Mon, 06 Nov 2023 11:07:36 +0000</pubDate>
-		<lastBuildDate>Mon, 06 Nov 2023 11:07:36 +0000</lastBuildDate>
+		<copyright>(c) 2024, London Mathematical Biology group</copyright>	
+		<pubDate>Wed, 01 May 2024 16:59:57 +0100</pubDate>
+		<lastBuildDate>Wed, 01 May 2024 16:59:57 +0100</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml" />
