@@ -13,10 +13,10 @@ g { color: Green }
 
 ![Branching](/images/banner.png)
 
-### <r>Registration for the 2nd London Mathematical Biology Conference is open!</r>
+### <r>2nd London Mathematical Biology Conference is anounced!</r>
 
 
-The 2nd edition of the London Mathematical Biology Conference will take place on the **9th-10th December of 2024 at The Francis Crick Institute**. You can register to the conference [here](). As we gear up for this event we welcome suggestions to the organization of the conference. If you have ideas to share, please don't hesitate to reach out to us at [londonmathbio@gmail.com](mailto:londonmathbio@gmail.com).
+The 2nd edition of the London Mathematical Biology Conference will take place on the **9th-10th December of 2024 at The Francis Crick Institute**. As we gear up for this event we welcome suggestions to the organization of the conference. If you have ideas to share, please don't hesitate to reach out to us at [londonmathbio@gmail.com](mailto:londonmathbio@gmail.com).
 
 ![Branching](/images/poster2.png)
 
