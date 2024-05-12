@@ -28,5 +28,5 @@ With the support of:
 </div>
  -->
 
-![Sociery for Mathematical Biology logo](/images/smblogo.png)
-![Company of Biologists logo](/images/coblogo.jpg)
+![Sociery for Mathematical Biology logo](/images/smblogo.png| width=100)
+![Company of Biologists logo](/images/coblogo.jpg| width=100)
