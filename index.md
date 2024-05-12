@@ -22,9 +22,11 @@ The 2nd edition of the London Mathematical Biology Conference will take place on
 
 With the support of:
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
     <img src="/images/smblogo.png" alt="Sociery for Mathematical Biology logo" style="max-width: 50%;">
     <img src="/images/coblogo.jpg" alt="Company of Biologists logo" style="max-width: 50%;">
 </div>
+ -->
 
-
+![Sociery for Mathematical Biology logo](/images/smblogo.png)
+![Company of Biologists logo](/images/coblogo.jpg)
