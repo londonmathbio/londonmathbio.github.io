@@ -18,7 +18,7 @@ g { color: Green }
 
 The 2nd edition of the London Mathematical Biology Conference will take place on the **9th-10th September of 2024 at The Francis Crick Institute**. You can register through [the registration portal](https://www.crick.ac.uk/whats-on/london-mathematical-biology-conference). If you have ideas to share, please don't hesitate to reach out to us at [londonmathbio@gmail.com](mailto:londonmathbio@gmail.com).
 
-![poster2024](/images/poster2.png)
+![poster2024](/images/poster_deadline_Aug.png)
 
 With the support of:
 
