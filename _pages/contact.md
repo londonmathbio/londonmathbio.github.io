@@ -56,7 +56,7 @@ You can contact us by sending an email to [londonmathbio@gmail.com](mailto:londo
 </div>
 
 <div class="container">
-  <img src="images/omer.png" alt="Another Image description">
+  <img src="images/omer.jpg" alt="Another Image description">
   <div class="text">
   	<h3><a href="https://profiles.imperial.ac.uk/o.karin/grants" class="custom-link">Omer Karin</a></h3>
     <p>Imperial College London</p>
