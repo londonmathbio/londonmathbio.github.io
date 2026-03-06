@@ -56,6 +56,15 @@ You can contact us by sending an email to [londonmathbio@gmail.com](mailto:londo
 </div>
 
 <div class="container">
+  <img src="images/omer.png" alt="Another Image description">
+  <div class="text">
+  	<h3><a href="https://profiles.imperial.ac.uk/o.karin/grants" class="custom-link">Omer Karin</a></h3>
+    <p>Imperial College London</p>
+  </div>
+</div>
+
+
+<div class="container">
   <img src="images/phil.png" alt="Another Image description">
   <div class="text">
   	<h3><a href="https://www.ucl.ac.uk/~ucahppe/" class="custom-link">Philip Pearce</a></h3>
