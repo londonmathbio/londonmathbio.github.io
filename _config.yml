@@ -99,8 +99,12 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : 2023 Conference # Label
-    url     : /2023 # url
+  - title   : Previous Conferences # Label
+    child:
+    - title   : 2024 # Label
+      url     : /2024 # url
+    - title   : 2023 # Label
+      url     : /2023 # url
   - title   : Contact
     url     : /contact
 #  - title   : # Label submenu
