@@ -20,9 +20,11 @@ The 3rd edition of the London Mathematical Biology Conference will take place on
 
 ## Confirmed Speakers
 
-- **Vincent Jansen** — Royal Holloway University of London
-- **Neelima Sharma** — University College London
-- **Anthea Monod** — Imperial College London
 - **Giulia Celora** — University of Oxford
-- **Madhav Mani** — Northwestern University
+- **Valeria Giunta** — Swansea University
+- **Vincent Jansen** — Royal Holloway, University of London
 - **Jawahar Krishnan** — Imperial College London
+- **Madhav Mani** — Northwestern University
+- **Anthea Monod** — Imperial College London
+- **Ivan Palaia** — King's College London
+- **Neelima Sharma** — University College London
