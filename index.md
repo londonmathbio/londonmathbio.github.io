@@ -25,7 +25,7 @@ The 3rd edition of the London Mathematical Biology Conference will take place on
 - **Giulia Celora** — University of Oxford
 - **Valeria Giunta** — Swansea University
 - **Vincent Jansen** — Royal Holloway, University of London
-- **Jawahar Krishnan** — Imperial College London
+- **J Krishnan** — Imperial College London
 - **Madhav Mani** — Northwestern University
 - **Anthea Monod** — Imperial College London
 - **Ivan Palaia** — King's College London
