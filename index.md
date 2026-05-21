@@ -14,7 +14,7 @@ g { color: Green }
 
 ### 3rd London Mathematical Biology Conference
 
-The 3rd edition of the London Mathematical Biology Conference will take place on the **9th–10th September 2026 at Imperial College London**. 
+The 3rd edition of the London Mathematical Biology Conference will take place on the 3rd–4th September 2026 at Imperial College London. 
 
 **Abstract submission is open! Please submit your abstract [here](https://docs.google.com/forms/d/e/1FAIpQLSeoMLYtUIf2FPvfblq076_AaqT-7dxaNCzgci2uDG5_BD-3uw/viewform?usp=dialog) by 5th July 2026.**
 
