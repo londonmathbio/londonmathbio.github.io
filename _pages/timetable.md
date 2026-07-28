@@ -5,10 +5,6 @@ header_type: hero
 permalink: /timetable
 ---
 
-## Programme Timetable
-
-The programme below is arranged in a more editorial, conference-style format to make the schedule easier to scan.
-
 <style>
 .program-day {
   margin-bottom: 2rem;

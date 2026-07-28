@@ -18,11 +18,9 @@ The 3rd edition of the London Mathematical Biology Conference will take place on
 
 **Registration is now open! You can register [here](https://imperialuk.estore.flywire.com/products/3rd-london-mathematical-biology-conference-443485).**
 
-The full programme will be announced shortly.
+You can view the latest conference timetable here: **[Conference Timetable](/timetable)**.
 
-You can view the latest conference timetable here: [Programme Timetable](/timetable).
-
-## Confirmed Speakers
+## Invited Speakers
 
 - **Giulia Celora** — University of Oxford
 - **Valeria Giunta** — Swansea University
