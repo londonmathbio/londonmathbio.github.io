@@ -105,6 +105,8 @@ navbar:
       url     : /2024 # url
     - title   : 2023 # Label
       url     : /2023 # url
+  - title   : Timetable
+    url     : /timetable
   - title   : Contact
     url     : /contact
 #  - title   : # Label submenu

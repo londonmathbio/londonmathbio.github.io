@@ -20,6 +20,8 @@ The 3rd edition of the London Mathematical Biology Conference will take place on
 
 The full programme will be announced shortly.
 
+You can view the latest conference timetable here: [Programme Timetable](/timetable).
+
 ## Confirmed Speakers
 
 - **Giulia Celora** — University of Oxford
