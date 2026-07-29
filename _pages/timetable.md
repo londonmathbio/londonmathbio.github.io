@@ -101,7 +101,7 @@ permalink: /timetable
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">Neelima Sharma</div>
       <div class="program-institution">UCL</div>
-      <div class="program-title">TBC</div>
+      <div class="program-title">Stability considerations in the form and function of musculoskeletal linkages</div>
     </div>
   </div>
 
