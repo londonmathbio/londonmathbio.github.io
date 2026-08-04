@@ -16,7 +16,7 @@ g { color: Green }
 
 The 3rd edition of the London Mathematical Biology Conference will take place on **3rd–4th September 2026** at Imperial College London.
 
-**Registration is now open. Deadline to register is 14 August 2026. You can register [here](https://imperialuk.estore.flywire.com/products/3rd-london-mathematical-biology-conference-443485).**
+**Registration is now open. Deadline to register is 21 August 2026. You can register [here](https://imperialuk.estore.flywire.com/products/3rd-london-mathematical-biology-conference-443485).**
 
 You can view the latest conference timetable here: **[Conference Timetable](/timetable)**.
 
@@ -32,3 +32,5 @@ You can view the latest conference timetable here: **[Conference Timetable](/tim
 - **Neelima Sharma** — University College London
 
 If you have ideas to share, please don't hesitate to reach out to us at [londonmathbio@gmail.com](mailto:londonmathbio@gmail.com).
+
+<!-- audit: tiny invisible update -->
