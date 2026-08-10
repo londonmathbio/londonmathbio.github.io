@@ -165,7 +165,7 @@ permalink: /timetable
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">Giulia Celora</div>
       <div class="program-institution">University of Oxford / Bristol</div>
-      <div class="program-title">TBC</div>
+      <div class="program-title">The Diverse Roles of Proliferation in Collective Cell Migration</div>
     </div>
   </div>
 
@@ -202,7 +202,7 @@ permalink: /timetable
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">Vincent Jansen</div>
       <div class="program-institution">Royal Holloway, University of London</div>
-      <div class="program-title">Invited talk</div>
+      <div class="program-title">A delicate balance? Diversity, stability and feasibility in competitive ecosystems</div>
     </div>
   </div>
 
@@ -234,15 +234,6 @@ permalink: /timetable
     </div>
   </div>
 
-  <div class="program-item">
-    <div class="program-time">19:00–22:00</div>
-    <div class="program-details">
-      <div class="program-event">Social</div>
-      <div class="program-speaker">Dinner</div>
-    </div>
-  </div>
-</div>
-
 ### Day 2 — 4 September 2026
 
 <div class="program-day">
@@ -252,7 +243,7 @@ permalink: /timetable
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">Kyle Wedgwood</div>
       <div class="program-institution">University of Exeter</div>
-      <div class="program-title">TBC</div>
+      <div class="program-title">A Closed-loop Framework for Model Discrimination and Parametrisation Using Optimal Control</div>
     </div>
   </div>
 
