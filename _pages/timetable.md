@@ -233,6 +233,7 @@ permalink: /timetable
       <div class="program-speaker">Poster session and discussions</div>
     </div>
   </div>
+</div>
 
 ### Day 2 — 4 September 2026
 
@@ -366,7 +367,7 @@ permalink: /timetable
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">J Krishnan</div>
       <div class="program-institution">Imperial College London</div>
-      <div class="program-title">Invited talk</div>
+      <div class="program-title">A structured systems dissection of different facets of cell signalling</div>
     </div>
   </div>
 
