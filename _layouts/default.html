@@ -2,9 +2,6 @@
 layout: minimal
 ---
 	{% include components/headers.html headertype= page.header_type imghero=page.header_img projects=page.project_links %}
-	<link rel="icon" href="{{ '/images/favicon.png?v=2' | relative_url }}" type="image/png">
-	<link rel="shortcut icon" href="{{ '/images/favicon.png?v=2' | relative_url }}" type="image/png">
-	<link rel="apple-touch-icon" href="{{ '/images/favicon.png?v=2' | relative_url }}">
 	<main class="container-lg pb-3 flex-fill">
 	  {% if page.show_breadcrumb or page.show_date or page.show_sociallinks -%}
 	  {%- include components/breadcrumbdatesocial.html -%}
