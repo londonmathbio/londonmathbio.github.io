@@ -11,8 +11,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-03",
         "tags": ["skin","bootstrap","current-theme","header-hero","image"],
-        "url": "http://localhost:4000/skins/current",
-        "img": "http://localhost:4000/assets/img/site/banner-skins.png"
+        "url": "https://londonmathbio.github.io/skins/current",
+        "img": "https://londonmathbio.github.io/assets/img/site/banner-skins.png"
       },{
         "title": "Deeply",
         "subtitle": "A dark background theme with bold contrasting colors",
@@ -21,8 +21,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-04",
         "tags": ["dark-skin","skin","bootstrap","tophat","header-splash","image"],
-        "url": "http://localhost:4000/skins/deeply",
-        "img": "http://localhost:4000/assets/img/skinspreview/deeply.png"
+        "url": "https://londonmathbio.github.io/skins/deeply",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/deeply.png"
       },{
         "title": "Hootstrap",
         "subtitle": "It’s a hootin, hollarin ho-down y’all!",
@@ -31,8 +31,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-04",
         "tags": ["skin","bootstrap","themes-guide","header-splash"],
-        "url": "http://localhost:4000/skins/hootstrap",
-        "img": "http://localhost:4000/assets/img/skinspreview/hootstrap.png"
+        "url": "https://londonmathbio.github.io/skins/hootstrap",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/hootstrap.png"
       },{
         "title": "Journal",
         "subtitle": "Crisp like a new sheet of paper",
@@ -41,8 +41,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-05",
         "tags": ["skin","bootstrap","bootswatch","header-splash"],
-        "url": "http://localhost:4000/skins/journal",
-        "img": "http://localhost:4000/assets/img/skinspreview/journal.png"
+        "url": "https://londonmathbio.github.io/skins/journal",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/journal.png"
       },{
         "title": "LUX",
         "subtitle": "A touch of class",
@@ -51,8 +51,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-05",
         "tags": ["skin","bootstrap","bootswatch","header-splash"],
-        "url": "http://localhost:4000/skins/lux",
-        "img": "http://localhost:4000/assets/img/skinspreview/lux.png"
+        "url": "https://londonmathbio.github.io/skins/lux",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/lux.png"
       },{
         "title": "Minty",
         "subtitle": "A fresh feel",
@@ -61,8 +61,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-05",
         "tags": ["skin","bootstrap","bootswatch","header-splash"],
-        "url": "http://localhost:4000/skins/minty",
-        "img": "http://localhost:4000/assets/img/skinspreview/minty.png"
+        "url": "https://londonmathbio.github.io/skins/minty",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/minty.png"
       },{
         "title": "Sketchy",
         "subtitle": "A hand-drawn look for mockups and mirth",
@@ -71,8 +71,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2015-03-06",
         "tags": ["skin","bootstrap","bootswatch","header-splash"],
-        "url": "http://localhost:4000/skins/sketchy",
-        "img": "http://localhost:4000/assets/img/skinspreview/sketchy.png"
+        "url": "https://londonmathbio.github.io/skins/sketchy",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/sketchy.png"
       },{
         "title": "Sunset",
         "subtitle": "Hungover on the beach at sunrise",
@@ -81,8 +81,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2019-03-07",
         "tags": ["skin","bootstrap","tophat","header-splash","image"],
-        "url": "http://localhost:4000/skins/sunset",
-        "img": "http://localhost:4000/assets/img/skinspreview/sunset.png"
+        "url": "https://londonmathbio.github.io/skins/sunset",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/sunset.png"
       },{
         "title": "<span class=\"chulapa\">Chulapa</span><small style=\"font-size:50%; color:#687864;\"> skin</small>",
         "subtitle": "Get lost in Madrid",
@@ -91,8 +91,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2019-05-15",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/chulapa",
-        "img": "http://localhost:4000/assets/img/skinspreview/chulapa.png"
+        "url": "https://londonmathbio.github.io/skins/chulapa",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/chulapa.png"
       },{
         "title": "Twitter",
         "subtitle": "Fly high with a light skin",
@@ -101,8 +101,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-02-14",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/twitter",
-        "img": "http://localhost:4000/assets/img/skinspreview/twitter.png"
+        "url": "https://londonmathbio.github.io/skins/twitter",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/twitter.png"
       },{
         "title": "Graymor",
         "subtitle": "Square corners with shades of gray and sea green",
@@ -111,8 +111,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-03-07",
         "tags": ["skin","bootstrap","tophat","header-splash"],
-        "url": "http://localhost:4000/skins/graymor",
-        "img": "http://localhost:4000/assets/img/skinspreview/graymor.png"
+        "url": "https://londonmathbio.github.io/skins/graymor",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/graymor.png"
       },{
         "title": "Lymcha",
         "subtitle": "Like a sunny summer day in Northern Italy",
@@ -121,8 +121,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-03-07",
         "tags": ["skin","bootstrap","tophat","header-splash"],
-        "url": "http://localhost:4000/skins/lymcha",
-        "img": "http://localhost:4000/assets/img/skinspreview/lymcha.png"
+        "url": "https://londonmathbio.github.io/skins/lymcha",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/lymcha.png"
       },{
         "title": "Preptor",
         "subtitle": "A bright, hot pink theme in good taste.",
@@ -131,8 +131,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-03-07",
         "tags": ["skin","bootstrap","tophat","header-splash"],
-        "url": "http://localhost:4000/skins/preptor",
-        "img": "http://localhost:4000/assets/img/skinspreview/preptor.png"
+        "url": "https://londonmathbio.github.io/skins/preptor",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/preptor.png"
       },{
         "title": "Wandoo",
         "subtitle": "A pleasant theme with red primary color",
@@ -141,8 +141,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-03-07",
         "tags": ["skin","bootstrap","tophat","header-splash"],
-        "url": "http://localhost:4000/skins/wandoo",
-        "img": "http://localhost:4000/assets/img/skinspreview/wandoo.png"
+        "url": "https://londonmathbio.github.io/skins/wandoo",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/wandoo.png"
       },{
         "title": "Twitter Dim",
         "subtitle": "A skin for night owls",
@@ -151,8 +151,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-03-20",
         "tags": ["dark-skin","skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/twitter-dim",
-        "img": "http://localhost:4000/assets/img/skinspreview/twitter-dim.png"
+        "url": "https://londonmathbio.github.io/skins/twitter-dim",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/twitter-dim.png"
       },{
         "title": "Twitter Lights Out",
         "subtitle": "Lights off, dream on",
@@ -161,8 +161,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-04-20",
         "tags": ["dark-skin","skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/twitter-lights-out",
-        "img": "http://localhost:4000/assets/img/skinspreview/twitter-lights-out.png"
+        "url": "https://londonmathbio.github.io/skins/twitter-lights-out",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/twitter-lights-out.png"
       },{
         "title": "Pear",
         "subtitle": "A juicy and fresh skin on nice greens",
@@ -171,8 +171,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-07-22",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/pear",
-        "img": "http://localhost:4000/assets/img/skinspreview/pear.png"
+        "url": "https://londonmathbio.github.io/skins/pear",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/pear.png"
       },{
         "title": "Towards",
         "subtitle": "Data Science is great",
@@ -181,8 +181,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2021-02-14",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/towards",
-        "img": "http://localhost:4000/assets/img/skinspreview/towards.png"
+        "url": "https://londonmathbio.github.io/skins/towards",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/towards.png"
       },{
         "title": "Academia",
         "subtitle": "It purifies, it fixes, and it dignifies",
@@ -191,8 +191,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2021-03-20",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/academia",
-        "img": "http://localhost:4000/assets/img/skinspreview/academia.png"
+        "url": "https://londonmathbio.github.io/skins/academia",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/academia.png"
       },{
         "title": "Universal",
         "subtitle": "Clean & Stylish",
@@ -201,8 +201,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2022-03-07",
         "tags": ["skin","bootstrap","dieghernan","header-splash","image"],
-        "url": "http://localhost:4000/skins/universal",
-        "img": "http://localhost:4000/assets/img/skinspreview/universal.png"
+        "url": "https://londonmathbio.github.io/skins/universal",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/universal.png"
       },{
         "title": "GitDev Dark",
         "subtitle": "I develop better in the shadows",
@@ -211,8 +211,8 @@ var store = [{
         "categories": ["skins"],
         "date": "2022-03-20",
         "tags": ["dark-skin","skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/gitdev-dark",
-        "img": "http://localhost:4000/assets/img/skinspreview/gitdev-dark.png"
+        "url": "https://londonmathbio.github.io/skins/gitdev-dark",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/gitdev-dark.png"
       },{
         "title": "GitDev",
         "subtitle": "Happy Coding",
@@ -221,6 +221,6 @@ var store = [{
         "categories": ["skins"],
         "date": "2022-03-20",
         "tags": ["skin","bootstrap","dieghernan","header-splash"],
-        "url": "http://localhost:4000/skins/gitdev",
-        "img": "http://localhost:4000/assets/img/skinspreview/gitdev.png"
+        "url": "https://londonmathbio.github.io/skins/gitdev",
+        "img": "https://londonmathbio.github.io/assets/img/skinspreview/gitdev.png"
       }]

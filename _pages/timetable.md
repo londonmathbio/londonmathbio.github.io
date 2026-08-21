@@ -89,9 +89,9 @@ permalink: /timetable
     <div class="program-time">10:00–10:30</div>
     <div class="program-details">
       <div class="program-event">Invited Talk</div>
-      <div class="program-speaker">Madhav Mani</div>
-      <div class="program-institution">Northwestern University / Imperial</div>
-      <div class="program-title">TBC</div>
+      <div class="program-speaker">Robert Endres</div>
+      <div class="program-institution">Imperial College London</div>
+      <div class="program-title">How do cells reach the physical limits of sensing? Shape, pseudopods, and the energetic cost of chemotaxis</div>
     </div>
   </div>
 
