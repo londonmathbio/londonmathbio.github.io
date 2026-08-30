@@ -109,9 +109,9 @@ permalink: /timetable
     <div class="program-time">11:00–11:15</div>
     <div class="program-details">
       <div class="program-event">Contributed Talk</div>
-      <div class="program-speaker">Zekai Li</div>
+      <div class="program-speaker">William Hilton</div>
       <div class="program-institution">Imperial College London</div>
-      <div class="program-title">Simulation-free approximate Bayesian computation for stochastic reaction networks</div>
+      <div class="program-title">Unravelling causal interactions of coding and non-coding RNA from genome wide single-cell data</div>
     </div>
   </div>
 
