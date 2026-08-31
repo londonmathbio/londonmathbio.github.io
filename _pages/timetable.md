@@ -75,6 +75,8 @@ permalink: /timetable
 }
 </style>
 
+All talks will take place in **Royal School of Mines 228**. All other events will take place in the **City and Guilds Building**.
+
 ### Day 1 — 3 September 2026
 
 <div class="program-day">
@@ -379,4 +381,3 @@ permalink: /timetable
     </div>
   </div>
 </div>
-
