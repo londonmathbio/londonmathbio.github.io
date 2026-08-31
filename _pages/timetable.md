@@ -81,7 +81,7 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
 
 <div class="program-day">
   <div class="program-item">
-    <div class="program-time">09:30–10:00</div>
+    <div class="program-time">09:15–10:00</div>
     <div class="program-details">
       <div class="program-speaker">Registration</div>
     </div>
