@@ -16,9 +16,9 @@ g { color: Green }
 
 The 3rd edition of the London Mathematical Biology Conference will take place on **3rd–4th September 2026** at Imperial College London.
 
-You can view the latest conference timetable here: **[Conference Timetable](/timetable)**.
+You can view the conference details in the **[Conference Timetable](/timetable)** and **[Conference Map](/images/map_mabilon2026.jpg)**.
 
-You can view the conference locations here: **[Conference Map](/images/map_mabilon2026.jpg)**.
+The list of poster sessions can be found **[here](/posters)**.
 
 ## Invited Speakers
 

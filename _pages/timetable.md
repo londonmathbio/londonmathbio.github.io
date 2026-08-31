@@ -232,7 +232,7 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
     <div class="program-time">17:30–19:00</div>
     <div class="program-details">
       <div class="program-event">Session</div>
-      <div class="program-speaker">Poster session and discussions</div>
+      <div class="program-speaker"><a href="/posters">Poster session and discussions</a></div>
     </div>
   </div>
 </div>
