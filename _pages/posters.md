@@ -142,4 +142,7 @@ permalink: /posters
   <div class="poster-item">
     <div class="poster-number">23</div><div class="poster-name">Matias Palumbo</div><div class="poster-institution">Imperial College London &amp; MRC Laboratory of Medical Sciences</div><div class="poster-title">Neural crest cell differentiation as an annealing-like process in high-dimensional transcriptional space</div>
   </div>
+  <div class="poster-item">
+    <div class="poster-number">24</div><div class="poster-name">Lorenzo Huang</div><div class="poster-institution">Politecnico di Torino</div><div class="poster-title">T-cell Motility in Confined Geometry: a Statistical Analysis and Model Comparison</div>
+  </div>
 </div>
