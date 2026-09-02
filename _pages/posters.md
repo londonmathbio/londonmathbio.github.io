@@ -134,15 +134,12 @@ permalink: /posters
     <div class="poster-number">20</div><div class="poster-name">Alan Scaramangas</div><div class="poster-institution">Queen Mary University of London</div><div class="poster-title">Evolution of extrachromosomal DNA in non-growing cell populations</div>
   </div>
   <div class="poster-item">
-    <div class="poster-number">21</div><div class="poster-name">Lewis Mosby</div><div class="poster-institution">The Francis Crick Institute</div><div class="poster-title">Combining morphogen and juxtacrine signalling to pattern at the single-cell scale</div>
+    <div class="poster-number">21</div><div class="poster-name">Juan David Marmolejo Lozano</div><div class="poster-institution">University of Edinburgh</div><div class="poster-title">When a simpler model lies about how cells transmit information</div>
   </div>
   <div class="poster-item">
-    <div class="poster-number">22</div><div class="poster-name">Juan David Marmolejo Lozano</div><div class="poster-institution">University of Edinburgh</div><div class="poster-title">When a simpler model lies about how cells transmit information</div>
+    <div class="poster-number">22</div><div class="poster-name">Matias Palumbo</div><div class="poster-institution">Imperial College London &amp; MRC Laboratory of Medical Sciences</div><div class="poster-title">Neural crest cell differentiation as an annealing-like process in high-dimensional transcriptional space</div>
   </div>
   <div class="poster-item">
-    <div class="poster-number">23</div><div class="poster-name">Matias Palumbo</div><div class="poster-institution">Imperial College London &amp; MRC Laboratory of Medical Sciences</div><div class="poster-title">Neural crest cell differentiation as an annealing-like process in high-dimensional transcriptional space</div>
-  </div>
-  <div class="poster-item">
-    <div class="poster-number">24</div><div class="poster-name">Lorenzo Huang</div><div class="poster-institution">Politecnico di Torino</div><div class="poster-title">T-cell Motility in Confined Geometry: a Statistical Analysis and Model Comparison</div>
+    <div class="poster-number">23</div><div class="poster-name">Lorenzo Huang</div><div class="poster-institution">Politecnico di Torino</div><div class="poster-title">T-cell Motility in Confined Geometry: a Statistical Analysis and Model Comparison</div>
   </div>
 </div>

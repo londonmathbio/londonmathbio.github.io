@@ -128,9 +128,9 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
     <div class="program-time">11:45–12:15</div>
     <div class="program-details">
       <div class="program-event">Invited Talk</div>
-      <div class="program-speaker">Ivan Palaia</div>
-      <div class="program-institution">King’s College London</div>
-      <div class="program-title">Cell division in silico: how actin constricts the membrane</div>
+      <div class="program-speaker">Lewis Mosby</div>
+      <div class="program-institution">The Francis Crick Institute</div>
+      <div class="program-title">Combining morphogen and juxtacrine signalling to pattern at the single-cell scale</div>
     </div>
   </div>
 
