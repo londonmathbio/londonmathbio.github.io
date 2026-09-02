@@ -293,7 +293,7 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
       <div class="program-event">Invited Talk</div>
       <div class="program-speaker">Anthea Monod</div>
       <div class="program-institution">Imperial College London</div>
-      <div class="program-title">TBC</div>
+      <div class="program-title">Persistent Homology for Inferencing on Cancer Imaging</div>
     </div>
   </div>
 

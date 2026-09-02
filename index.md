@@ -26,9 +26,9 @@ The list of poster sessions can be found **[here](/posters)**.
 - **Valeria Giunta** — Swansea University
 - **Vincent Jansen** — Royal Holloway, University of London
 - **J Krishnan** — Imperial College London
-- **Madhav Mani** — Northwestern University
+- **Robert Endres** — Imperial College London
 - **Anthea Monod** — Imperial College London
-- **Ivan Palaia** — King's College London
+- **Lewis Mosby** — The Francis Crick Institute
 - **Neelima Sharma** — University College London
 
 If you have ideas to share, please don't hesitate to reach out to us at [londonmathbio@gmail.com](mailto:londonmathbio@gmail.com).
