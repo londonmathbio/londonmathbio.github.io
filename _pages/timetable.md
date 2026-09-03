@@ -229,7 +229,16 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
   </div>
 
   <div class="program-item">
-    <div class="program-time">17:30–19:00</div>
+    <div class="program-time">17:30–17:50</div>
+    <div class="program-details">
+      <div class="program-event">Human Frontier Science Program grant opportunities</div>
+      <div class="program-speaker">Guntram Bauer</div>
+      <div class="program-institution">HFSP</div>
+    </div>
+  </div>
+
+  <div class="program-item">
+    <div class="program-time">17:50–19:30</div>
     <div class="program-details">
       <div class="program-event">Session</div>
       <div class="program-speaker"><a href="/posters">Poster session and discussions</a></div>
@@ -318,18 +327,9 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
   </div>
 
   <div class="program-item">
-    <div class="program-time">12:30–14:30</div>
+    <div class="program-time">12:30–15:00</div>
     <div class="program-details">
       <div class="program-speaker">Lunch break</div>
-    </div>
-  </div>
-
-  <div class="program-item">
-    <div class="program-time">14:30–15:00</div>
-    <div class="program-details">
-      <div class="program-event">Human Frontier Science Program grant opportunities</div>
-      <div class="program-speaker">Guntram Bauer</div>
-      <div class="program-institution">HFSP</div>
     </div>
   </div>
 
@@ -337,9 +337,9 @@ All talks will take place in **Royal School of Mines 228**. All other events wil
     <div class="program-time">15:00–15:30</div>
     <div class="program-details">
       <div class="program-event">Invited Talk</div>
-      <div class="program-speaker">Valeria Giunta</div>
-      <div class="program-institution">Swansea University</div>
-      <div class="program-title">Bifurcations, pattern formation, and multi-stability in nonlocal models of interacting species</div>
+      <div class="program-speaker">Carles Falcó i Gandia</div>
+      <div class="program-institution">University of Oxford</div>
+      <div class="program-title">Modelling and quantifying interactions in collective cell behaviour</div>
     </div>
   </div>
 
